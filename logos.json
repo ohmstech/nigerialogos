@@ -44,6 +44,14 @@
 		]
 	},
 	{
+		"title": "web boss",
+		"filename": "web_boss",
+		"url": "https://www.web-boss.com.ng/",
+		"category": [
+			"EdTech"
+		]
+	},
+	{
 		"title": "Polaris Bank",
 		"filename": "polaris_bank",
 		"url": "https://www.polarisbanklimited.com/",
@@ -1129,6 +1137,14 @@
 		]
 	},
 	{
+		"title": "SeamPay",
+		"filename": "seampay",
+		"url": "https://www.seampay.com/",
+		"category": [
+			"Financial Services"
+		]
+	},
+	{
 		"title": "Summitech Computing Limited",
 		"filename": "summitech",
 		"url": "https://www.summitech.ng/",
@@ -1248,10 +1264,30 @@
 	},
 	{
 		"title": "Peace Mass Transit",
-	 "filename": "peace_mass_transit",
-	 "url": "https://pmt.ng/",
-	 "category": [
-		 "Transportation",
-		 "Logistics"
-	 ]
- }]
+		"filename": "peace_mass_transit",
+		"url": "https://pmt.ng/",
+		"category": ["Transportation", "Logistics"]
+	},
+	{
+		"title": "Patricia",
+		"filename": "patricia",
+		"url": "https://patricia.com.ng/",
+		"category": ["Ecommerce", "Financial Services"]
+	},
+ {
+  "title": "Fundall",
+  "filename": "fundall",
+  "url": "https://www.fundall.io/",
+  "category": ["Banking", "Financial Services"]
+},
+{
+	"title": "Startuplist Africa",
+ "filename": "startuplist_africa",
+ "url": "https://startuplist.africa",
+ "category": [
+	 "Big Data",
+	 "Business Intelligence",
+	 "Analytics"
+ ]
+}
+]
