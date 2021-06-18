@@ -1,4 +1,25 @@
-[{
+[
+	{
+		"title": "Seedbuilders",
+		"filename": "seedbuilders",
+		"url": "https://seedbuildersng.com/",
+		"category": [
+			"Coworking",
+			"Virtual Office",
+			"Foundation",
+			"ICT"
+		]
+	},
+	{
+		"title": "BellaNaija",
+		"filename": "bellanaija",
+		"url": "https://www.bellanaija.com/",
+		"category": [
+			"Media"
+		]
+	},
+
+	{
 		"title": "Paystack",
 		"filename": "paystack",
 		"url": "https://paystack.com/",
@@ -61,9 +82,9 @@
 		]
 	},
 	{
-		"title":"FourthCanvas",
-		"filename":"fourthcanvas",
-		"url":"https://fourthcanvas.co",
+		"title": "FourthCanvas",
+		"filename": "fourthcanvas",
+		"url": "https://fourthcanvas.co",
 		"category": [
 			"Branding"
 		]
@@ -1244,23 +1265,23 @@
 			"Online Food Delivery"
 		]
 	},
-  {
-   	"title": "Pettysave",
+	{
+		"title": "Pettysave",
 		"filename": "pettysave",
 		"url": "https://www.pettysave.com/",
 		"category": [
 			"Financial Services"
-    ]
-  },
-  {
-   	"title": "DearDesigner",
+		]
+	},
+	{
+		"title": "DearDesigner",
 		"filename": "dear_designer",
 		"url": "https://deardesigner.xyz/",
 		"category": [
 			"EdTech",
 			"Software",
 			"Product Design"
-    ]
+		]
 	},
 	{
 		"title": "Peace Mass Transit",
@@ -1274,20 +1295,47 @@
 		"url": "https://patricia.com.ng/",
 		"category": ["Ecommerce", "Financial Services"]
 	},
- {
-  "title": "Fundall",
-  "filename": "fundall",
-  "url": "https://www.fundall.io/",
-  "category": ["Banking", "Financial Services"]
-},
-{
-	"title": "Startuplist Africa",
- "filename": "startuplist_africa",
- "url": "https://startuplist.africa",
- "category": [
-	 "Big Data",
-	 "Business Intelligence",
-	 "Analytics"
- ]
-}
+	{
+		"title": "Fundall",
+		"filename": "fundall",
+		"url": "https://www.fundall.io/",
+		"category": ["Banking", "Financial Services"]
+	},
+	{
+		"title": "Startuplist Africa",
+		"filename": "startuplist_africa",
+		"url": "https://startuplist.africa",
+		"category": [
+			"Big Data",
+			"Business Intelligence",
+			"Analytics"
+		]
+	},
+	{
+		"title": "Mono",
+		"filename": "mono",
+		"url": "https://mono.co",
+		"category": [
+			"Financial Data",
+			"Software"
+		]
+	},
+	{
+		"title": "Tix Africa",
+		"filename": "tix_africa",
+		"url": "https://tix.africa",
+		"category": ["Event Management"]
+	},
+	{
+		"title": "gidimo",
+		"filename": "gidimo",
+		"url": "https://gidimo.com/",
+		"category": ["EdTech"]
+	},
+	{
+		"title": "Thepeer",
+		"filename": "thepeer",
+		"url": "https://thepeer.co",
+		"category": ["Financial Services"]
+	}
 ]
